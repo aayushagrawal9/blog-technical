@@ -3,6 +3,7 @@ title: "Understanding Container Networking: From Bridges to Overlay Networks"
 date: 2025-08-15 10:00:00 -0700
 categories: [Infrastructure, Containers]
 tags: [docker, networking, linux, containers]
+author: Sample Author
 ---
 
 Container networking can feel like magic until you peel back the layers. In this post, I'll walk through how container networking actually works under the hood, from Linux bridges to overlay networks.

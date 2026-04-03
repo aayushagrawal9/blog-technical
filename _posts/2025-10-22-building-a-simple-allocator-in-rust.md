@@ -3,6 +3,7 @@ title: "Building a Simple Memory Allocator in Rust"
 date: 2025-10-22 09:00:00 -0700
 categories: [Programming, Rust]
 tags: [rust, memory, systems-programming, allocator]
+author: Sample Author
 ---
 
 Memory allocation is one of those things most developers take for granted. Let's build a simple bump allocator in Rust to understand what happens under the hood when you call `Box::new()`.

@@ -3,6 +3,7 @@ title: "A Practical Guide to eBPF for Application Developers"
 date: 2026-01-10 08:00:00 -0700
 categories: [Infrastructure, Linux]
 tags: [ebpf, linux, observability, performance]
+author: Sample Author
 ---
 
 eBPF (extended Berkeley Packet Filter) has become one of the most important technologies in the Linux ecosystem. Originally designed for packet filtering, it now powers everything from observability tools to security policies. Here's a practical introduction for application developers.
